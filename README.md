@@ -44,5 +44,7 @@ contractlens/
 ├── app.py                        # Main Streamlit application
 ├── base_sourcing_agreement.txt   # Sample baseline contract
 ├── supplier_redline_counter.txt  # Sample supplier counter-draft
+├── ContractLens_PRD_v3.0.docx  # PRD Document
+├── Pitch_Contractlens_PS Hackathon.pdf  # Product Pitch Document
 └── README.md
 ```
