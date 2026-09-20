@@ -20,7 +20,7 @@ pip install streamlit
 py -m streamlit run app.py --server.fileWatcherType none
 ```
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
+Open (https://contractlens-vropmhypenrblamsgcyhvc.streamlit.app/) in your browser.
 
 ## Sample Data
 
